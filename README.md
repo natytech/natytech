@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @natytech
+- 👋 Hi, I’m naty
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
